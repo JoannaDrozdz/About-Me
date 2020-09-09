@@ -1,5 +1,15 @@
 # About Me
-
 My name is Joanna Drożdż. I've changed my career path because of passion for new technologies and quality.
-That's why I would like to grow as a professional in Quality Engineer area.
-     
+Welcome to my profile where you will find what I've learned and  what I would like to share with.
+
+
+
+## Now Reading
+[![alt text](https://emp-scs-uat.img-osdw.pl/img-p/1/kipwn/56b0b14f/std/1c0-27d/804460680o.jpg)](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
+
+[![alt text](https://static01.helion.com.pl/global/okladki/326x466/e_1evn.png)](https://helion.pl/ksiazki/pasja-testowania-krzysztof-jadczyk,e_1evn.htm)
+
+## Technologies
+- Git 2.20
+- PyCharm 2019.3.5
+- Python 3.7
