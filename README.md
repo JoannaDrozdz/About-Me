@@ -5,9 +5,9 @@ Welcome to my profile where you will find what I've learned and  what I would li
 
 
 ## Now Reading
-[![alt text](https://emp-scs-uat.img-osdw.pl/img-p/1/kipwn/d576082e/std/2bc-452/804460680o.jpg)](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
+[![alt text](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578055805l/50260579._SX318_.jpg)](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
 
-[![alt text](https://static01.helion.com.pl/global/okladki/326x466/e_1evn.png)](https://helion.pl/ksiazki/pasja-testowania-krzysztof-jadczyk,e_1evn.htm)
+[![alt text](https://static01.helion.com.pl/global/okladki/326x466/e_1evn.png)](https://www.empik.com/pasja-testowania-jadczyk-krzysztof,p1237816598,ebooki-i-mp3-p)
 
 ## Technologies
 - Git 2.20
