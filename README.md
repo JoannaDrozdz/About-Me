@@ -5,7 +5,7 @@ Welcome to my profile where you will find what I've learned and  what I would li
 
 
 ## Now Reading
-[![alt text](https://emp-scs-uat.img-osdw.pl/img-p/1/kipwn/56b0b14f/std/1c0-27d/804460680o.jpg)](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
+[![alt text](https://emp-scs-uat.img-osdw.pl/img-p/1/kipwn/d576082e/std/2bc-452/804460680o.jpg)](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
 
 [![alt text](https://static01.helion.com.pl/global/okladki/326x466/e_1evn.png)](https://helion.pl/ksiazki/pasja-testowania-krzysztof-jadczyk,e_1evn.htm)
 
