@@ -14,4 +14,6 @@ Welcome to my profile where you will find what I've learned and  what I would li
 
 ## External Platforms
 
+[GitHub](https://github.com/) - repository hosting
+
 [GitLab](https://gitlab.com) - repository hosting
