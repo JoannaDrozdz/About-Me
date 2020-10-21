@@ -3,9 +3,10 @@ My name is Joanna Drożdż. I've changed my career path because of passion for n
 Welcome to my profile where you will find what I've learned and  what I would like to share with.
 
 ## Technologies
-- Git 2.20
-- PyCharm 2019.3.5
-- Python 3.7
+- Git 2.28.0
+- IIntelliJ IDEA Community Edition 2020.2.3 using for Selenium Test Automation
+- Java 12
+- WebStorm 2020.2.3
 
 ## Now Reading
 [![alt text](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578055805l/50260579._SX318_.jpg)](https://ksiegarnia.pwn.pl/Automatyzacja-testow,804413689,p.html)
