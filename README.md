@@ -5,7 +5,7 @@ Welcome to my profile where you will find what I've learned and  what I would li
 ## Technologies
 - IIntelliJ IDEA Community Edition 2020.2.3 using for Selenium Test Automation
 - WebStorm 2020.2.3 using for creating an Angular app
-- Java 12
+- Java 15
 - Git 2.28.0
 
 ## Now Reading
